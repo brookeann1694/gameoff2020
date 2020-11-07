@@ -15,3 +15,8 @@ Idea:
 - Jumping from crater to crater til final goal
 - Subway Surfer-style on the Moon. Rocket Surfer
 
+Platform: 
+
+- Mobile 
+- Web based 
+- PC
